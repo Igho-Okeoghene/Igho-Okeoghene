@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igho Okeoghene Eunice
 - 👀 I’m interested in Frontend Development and Training upcoming tech newbies.
-- 🌱 I’m currently learning React.js and Vue.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate with amazing teams members I can learn from.
 - 📫 How to reach me: okeogheneeunice@gmail.com
 
