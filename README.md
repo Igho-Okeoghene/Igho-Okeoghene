@@ -7,7 +7,7 @@
 Projects & Organisations I have volunteered and worked in:
 SHE CODE AFRICA - Frontend Technical Coordinator 
 Nov.2020 - Aug.2021
-- Lead interactive sessions/fireside chats with technical experts in the industry or field experts willing to share their knowledge on various topics
+- Led interactive sessions/fireside chats with technical experts in the industry or field experts willing to share their knowledge on various topics
 - take charge of activities within the Frontend Community
 - Work with the field experts in curating and analysing technical projects & solutions.
 - be transparent in collating and reporting weekly statistics required for each participating team to scale into next stage
