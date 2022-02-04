@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Igho Okeoghene Eunice
 - 👀 I’m interested in Frontend Development and Training upcoming tech newbies.
 - 🌱 I’m currently learning React.js and Vue.js
-- I'm proficient in HTML, CSS, JAVASCRIPT, BOOTSTRAP.
+- I'm proficient in HTML, CSS, JAVASCRIPT.
 - 💞️ I’m looking to collaborate with amazing teams members I can learn from.
 - 📫 How to reach me: okeogheneeunice@gmail.com
+
+Check out my Portfolio Page - 
+- Solution URL: [https://github.com/Igho-Okeoghene/Eunice-Portfolio](https://github.com/Igho-Okeoghene/Eunice-Portfolio)
+- Live Site URL: [https://igho-okeoghene.github.io/Eunice-Portfolio/](https://igho-okeoghene.github.io/Eunice-Portfolio/)
 
 Projects & Organisations I have volunteered and worked in:
 SHE CODE AFRICA - Frontend Technical Coordinator 
