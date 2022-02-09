@@ -6,8 +6,7 @@
 - 📫 How to reach me: okeogheneeunice@gmail.com
 
 Check out my Portfolio Page - 
-- Solution URL: [https://github.com/Igho-Okeoghene/Eunice-Portfolio](https://github.com/Igho-Okeoghene/Eunice-Portfolio)
-- Live Site URL: [https://igho-okeoghene.github.io/Eunice-Portfolio/](https://igho-okeoghene.github.io/Eunice-Portfolio/)
+https://igho-okeoghene.github.io/Eunice-Portfolio/
 
 Projects & Organisations I have volunteered and worked in:
 SHE CODE AFRICA - Frontend Technical Coordinator 
