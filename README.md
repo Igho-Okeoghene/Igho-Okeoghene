@@ -8,6 +8,10 @@
 Check out my Portfolio Page - 
 https://igho-okeoghene.github.io/Eunice-Portfolio/
 
+SOME PROJECTS I HAVE DONE:
+- #CODERS' TYPING GAME: 
+  Solution URL: https://github.com/Igho-Okeoghene/Typing-Game
+  Live Site URL: https://igho-okeoghene.github.io/Typing-Game/
 Projects & Organisations I have volunteered and worked in:
 SHE CODE AFRICA - Frontend Technical Coordinator 
 Nov.2020 - Aug.2021
