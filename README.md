@@ -10,11 +10,16 @@ https://igho-okeoghene.github.io/Eunice-Portfolio/
 ![Screenshot](https://user-images.githubusercontent.com/61965289/153713082-891242b7-5fce-4aa5-8127-f5f7ab95cb86.png)
 
 SOME PROJECTS I HAVE DONE:
-CODERS' TYPING GAME: Live Site URL: https://igho-okeoghene.github.io/Typing-Game/
-Solution URL: https://github.com/Igho-Okeoghene/Typing-Game
+CODERS' TYPING GAME: 
+- Live Site URL: https://igho-okeoghene.github.io/Typing-Game/
+- Solution URL: https://github.com/Igho-Okeoghene/Typing-Game
 ![Screenshot](https://user-images.githubusercontent.com/61965289/153713149-04512bc2-2d20-406c-a87c-b0b64d431769.png)
 
 
+JAVASCRIPT DRILLS: 
+- Solution URL: [https://github.com/Igho-Okeoghene/JavaScript-Drills](https://github.com/Igho-Okeoghene/JavaScript-Drills)
+- Live Site URL: [https://igho-okeoghene.github.io/JavaScript-Drills/](https://igho-okeoghene.github.io/JavaScript-Drills/)
+![Screenshot 2022-02-19 at 20-07-46 JAVASCRIPT DRILLS](https://user-images.githubusercontent.com/61965289/154818116-08fa77e7-1d02-4880-a048-6bcd9ad990e7.png)
 
 Projects & Organisations I have volunteered and worked in:
 SHE CODE AFRICA - Frontend Technical Coordinator 
