@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React.js
 - I'm proficient in HTML, CSS, JAVASCRIPT.
 - 💞️ I’m looking to collaborate with amazing teams members I can learn from.
-- 📫 How to reach me: okeogheneeunice@gmail.com
+- 📫 How to reach me: Gmail:    okeogheneeunice@gmail.com
+                      LinkedIn: https://www.linkedin.com/in/okeoghene-eunice-igho/
 
 Check out my Portfolio Page - 
 https://igho-okeoghene.github.io/Eunice-Portfolio/
