@@ -50,6 +50,28 @@ A non-profit organization focused on celebrating and empowering young girls and 
 -	Worked alongside a team of administrators, curating bi-weekly tasks for the Front-End community, grading technical solutions and overseeing the day-to-day activities of the community.
 -	Brainstormed with program managers of the She Code Africa team on better approaches and initiatives to be adopted in training and grooming the ladies of the Front-End community.
 
+WORK EXPERIENCE
+
+DIGITO WEBS
+
+A website design start-up, geared with a mission to create stylish and professional websites that ensures clients have a distinguished digital footprint.
+
+Business Development Officer/Assistant Front-end Developer: Sept. 2022 - May 2023
+-	Actively participated in the development of 80% of all websites worked on and delivered by the company. Some of which include, Crown City Resorts, Lakefield School and Place of Hope websites.
+-	Developed creative articles for social media campaigns, that were being posted daily and increased online engagements by 50%.
+-	Ensured project timelines were followed judiciously, while testing features included in each project.
+-	Brainstormed with the dev team on the front-end design of websites as relating to client specifications.
+-	Updated and managed client websites, by updating texts, pictures, videos and links as required and requested by each client.
+-	Served as a middle man between the client and the dev team, ensuring timely feedbacks were properly communicated.
+
+EDUCATION
+
+Meta Front-End Developer Professional Certificate	: Feb. 2023 – Present
+
+A professional-level training from Meta, a nine-course series cutting across HTML, CSS, JavaScript, Figma, Bootstrap, GitHub, Content Management System and best approaches to problem-solving.
+-	Courses Completed: Introduction to Front-End Development/ Programming with JavaScript/Version Control/ HTML and CSS in depth/ React Basics. All completed with a minimum of 90% grade points
+-	Course Undertaking: Advanced React/Principles of UX/UI Design.
+
 <!---
 Igho-Okeoghene/Igho-Okeoghene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
