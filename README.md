@@ -8,6 +8,7 @@ https://igho-okeoghene.github.io/Eunice-Portfolio/
 ![Screenshot](https://user-images.githubusercontent.com/61965289/153713082-891242b7-5fce-4aa5-8127-f5f7ab95cb86.png)
 
 Personal Projects Worked On:
+
 CODERS' TYPING GAME: 
 - Live Site URL: https://igho-okeoghene.github.io/Typing-Game/
 - Solution URL: https://github.com/Igho-Okeoghene/Typing-Game
