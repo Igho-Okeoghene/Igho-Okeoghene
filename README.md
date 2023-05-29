@@ -19,18 +19,18 @@ JAVASCRIPT DRILLS:
 - Live Site URL: [https://igho-okeoghene.github.io/JavaScript-Drills/](https://igho-okeoghene.github.io/JavaScript-Drills/)
 ![Screenshot 2022-02-19 at 20-07-46 JAVASCRIPT DRILLS](https://user-images.githubusercontent.com/61965289/154818116-08fa77e7-1d02-4880-a048-6bcd9ad990e7.png) -->
 
-*VOLUNTEER EXPERIENCE*
-Living Faith Church Cannanland ICT Group 				                Feb. 2022 - Present
-Asst. Secretary, Programming Instructor and Front-end Developer
-	Teach an average of 20 teenagers weekly on the basics of HTML, CSS and JavaScript.
-	Collaborate and build projects alongside other developers on different solution-oriented projects using React, JavaScript, HTML and CSS.
-	Correlate reports and send reminders as relating to unit members and project meetings.
-	Follow-up on the training process of recruiting new members and ensuring they are properly settled in their various functional units.
+- VOLUNTEER EXPERIENCE
+Living Faith Church Cannanland ICT Group: Feb. 2022 - Present
+- Asst. Secretary, Programming Instructor and Front-end Developer
+- Teach an average of 20 teenagers weekly on the basics of HTML, CSS and JavaScript.
+- Collaborate and build projects alongside other developers on different solution-oriented projects using React, JavaScript, HTML and CSS.
+- Correlate reports and send reminders as relating to unit members and project meetings.
+-	Follow-up on the training process of recruiting new members and ensuring they are properly settled in their various functional units.
 
-Front-End FOXES – Mentor	 						                          September 2022
-A remote non-profit organization based in the USA that trains women from all over the world on the basics of HTML, CSS and JavaScript.
-	Attended weekly calls with Instructors, where the mentees were taught extensively on the basics of HTML, CSS and JavaScript.
-	Supported mentees all through the period of the training, by being on standby to answer both technical and non-technical questions.
+- Front-End FOXES – Mentor: September 2022
+- A remote non-profit organization based in the USA that trains women from all over the world on the basics of HTML, CSS and JavaScript.
+-	Attended weekly calls with Instructors, where the mentees were taught extensively on the basics of HTML, CSS and JavaScript.
+-	Supported mentees all through the period of the training, by being on standby to answer both technical and non-technical questions.
 
 Digital Coding Initiative (DCI) – Team Lead & Founder	 		      Dec. 2020–Oct. 2021
 An initiative with the sole aim of bridging the technological gap between underprivileged students and their counterparts in other developed countries. The core goal of the initiative included holding physical trainings for secondary school students (with 50% female participants) on the basics of HTML and CSS. 
