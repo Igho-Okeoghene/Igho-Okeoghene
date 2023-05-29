@@ -21,6 +21,7 @@ JAVASCRIPT DRILLS:
 
 - VOLUNTEER EXPERIENCE
 Living Faith Church Cannanland ICT Group: Feb. 2022 - Present
+
 Asst. Secretary, Programming Instructor and Front-end Developer
 - Teach an average of 20 teenagers weekly on the basics of HTML, CSS and JavaScript.
 - Collaborate and build projects alongside other developers on different solution-oriented projects using React, JavaScript, HTML and CSS.
@@ -33,7 +34,8 @@ Front-End FOXES – Mentor: September 2022
 -	Supported mentees all through the period of the training, by being on standby to answer both technical and non-technical questions.
 
 Digital Coding Initiative (DCI) – Team Lead & Founder: Dec. 2020 – Oct. 2021
--- An initiative with the sole aim of bridging the technological gap between underprivileged students and their counterparts in other developed countries. The core goal of the initiative included holding physical trainings for secondary school students (with 50% female participants) on the basics of HTML and CSS. 
+
+An initiative with the sole aim of bridging the technological gap between underprivileged students and their counterparts in other developed countries. The core goal of the initiative included holding physical trainings for secondary school students (with 50% female participants) on the basics of HTML and CSS. 
 -	Partnered with the Ministry of Education Abeokuta, Ogun State, APTECH Education Center, Abeokuta South and the NYSC Secretariat Ogun State during the entire timeline of the Abeokuta DCI training.
 -	Championed crowd-funding and social media campaigns to raise money for the initiative, as the students were not levied in any way.
 -	Organized an awareness seminar prior to the physical trainings, engaged speakers from APTECH Education Center, to sensitize representatives from the schools on what to expect from the practical trainings.
@@ -41,6 +43,7 @@ Digital Coding Initiative (DCI) – Team Lead & Founder: Dec. 2020 – Oct. 2021
 -	Successfully trained a total of 450+ students, cut across federal and private schools in the suburbs of Abeokuta Ogun State, Nigeria.
 
 She Code Africa (SCA) – Front-End Technical Coordinator	 	        Nov.2020 – Aug. 2021
+
 A non-profit organization focused on celebrating and empowering young girls and women in tech across Africa. 
 -	Organized and moderated bi-weekly interactive sessions/fireside chats with industry experts and 400+ ladies of the SCA Front-End community across Africa.
 -	Worked alongside a team of administrators, curating bi-weekly tasks for the Front-End community, grading technical solutions and overseeing the day-to-day activities of the community.
