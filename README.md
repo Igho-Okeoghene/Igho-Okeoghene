@@ -52,23 +52,23 @@ A non-profit organization focused on celebrating and empowering young girls and 
 
 WORK EXPERIENCE
 MBO CAPITAL                                                        Ikoyi, Lagos.
-MBO Capital Management Limited (MCM) is an Investment and Financial Advisory firm, licensed and regulated by the Securities and Exchange Commission with an A-(IM) rating from the Agusto Rating Agency.
+- MBO Capital Management Limited (MCM) is an Investment and Financial Advisory firm, licensed and regulated by the Securities and Exchange Commission with an A-(IM) rating from the Agusto Rating Agency.
 IT Support Analyst                                                 Aug. 2023 – Present
-• Oversaw technical support and maintenance for 30+ end-users, resolving 98% of hardware, software, and network issues promptly.
-• Collaborated with the team to update and maintain Windows and Mac operating systems and install and configure applications across the organization.
-• Offered detailed and comprehensive documentation of IT processes and procedures to enhance comprehension and usage within the organization.
-• Complied with disaster recovery protocols and conducted routine backups to guarantee data protection and system integrity.
-• Created Power Automate flows and provided operational support for business processes using Microsoft 365 applications.
-• Updated and Redesigned pages of the company’s website resulting in a 30% increase in website traffic and user engagement.
+- Oversaw technical support and maintenance for 30+ end-users, resolving 98% of hardware, software, and network issues promptly.
+- Collaborated with the team to update and maintain Windows and Mac operating systems and install and configure applications across the organization.
+- Offered detailed and comprehensive documentation of IT processes and procedures to enhance comprehension and usage within the organization.
+- Complied with disaster recovery protocols and conducted routine backups to guarantee data protection and system integrity.
+- Created Power Automate flows and provided operational support for business processes using Microsoft 365 applications.
+- Updated and Redesigned pages of the company’s website resulting in a 30% increase in website traffic and user engagement.
 
 DIGITO WEBS                                                        Surulere, Lagos.
 A website design start-up, geared with a mission to create stylish and professional websites that ensure clients have a distinguished digital footprint. 
 Business Development Officer/Assistant Front-end Developer         Sept. 2022 - May 2023
-• Actively participated in developing 80% of all websites worked on and delivered by the company. 
-• Developed creative articles for social media campaigns, that were being posted daily and increased 
+- Actively participated in developing 80% of all websites worked on and delivered by the company. 
+- Developed creative articles for social media campaigns, that were being posted daily and increased 
 online engagements by 50%. 
-• Ensured project timelines were followed judiciously, while testing features included in each project. 
-• Brainstormed with the dev team on the front-end design of websites relating to client specifications.
+- Ensured project timelines were followed judiciously, while testing features included in each project. 
+- Brainstormed with the dev team on the front-end design of websites relating to client specifications.
 
 EDUCATION
 
