@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Okeoghene Eunice Igho. I am a Front-End Developer with three years of industry experience in building websites and web applications. I write and style Front-end components that meet the requirements of UI designs and fulfill defined user stories.
+- 👋 Hi, I’m Okeoghene Eunice Igho. I am a Front-End Developer with over three years of industry experience in building websites and web applications. I write and style Front-end components that meet the requirements of UI designs and fulfill defined user stories.
 - 🌱  I am familiar with working with ReactJS, JavaScript, HTML, CSS, WordPress, Power Automate, and GitHub
 - 💞️ My tech journey has been a product of timely opportunities and strategic planning. Therefore, I pay forward the scholarships, training, and mentorships I have been opportune to participate in by training others. I have a keen interest in training youths and students on the basics of programming. I am a strong advocate of bridging the technological gap between less privileged students/youths in Nigeria and their counterparts in other developed countries in the world. 
 - 📫 How to reach me: Gmail: okeogheneeunice@gmail.com; LinkedIn: https://www.linkedin.com/in/okeoghene-eunice-igho/
 
-Check out my Portfolio Page - 
-https://igho-okeoghene.github.io/Eunice-Portfolio/
-<!-- ![Screenshot](https://user-images.githubusercontent.com/61965289/153713082-891242b7-5fce-4aa5-8127-f5f7ab95cb86.png)
- -->
+Frontend Mentor Projects Completed:
+[Okeoghene Eunice Makanjuola] (https://www.frontendmentor.io/profile/Igho-Okeoghene)
 Personal Projects Worked On:
 
 CODERS' TYPING GAME: 
