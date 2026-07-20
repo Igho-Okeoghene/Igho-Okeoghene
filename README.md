@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Professional Frontend React Developer | Tech Mentor & Community Builder**
+**Frontend React Developer | IT Support | Programming Instructor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okeoghene-eunice/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Igho-Okeoghene)
@@ -14,12 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend React Developer** with **3+ years of industry experience** in designing, developing, and deploying scalable web applications. I specialize in building responsive, user-centric interfaces using modern React patterns and best practices. My expertise spans from component architecture to state management, with a strong commitment to clean, maintainable code.
-
-Beyond coding, I'm passionate about **empowering others** through mentorship and education. I've successfully trained **450+ students** across Nigeria and mentored countless developers in tech communities, bridging the technological gap in underserved regions.
+I'm a **Frontend React Developer** with **5+ years of industry experience** in designing, developing, and deploying scalable web applications. I specialize in building responsive, user-centric interfaces using modern React patterns and best practices. My expertise spans from component architecture to state management, with a strong commitment to clean, maintainable code.
 
 ---
-
+## 🚀 Projects I Have Worked On
+- **HTML** 
 ## 🚀 Professional Skills
 
 ### **Frontend Technologies**
