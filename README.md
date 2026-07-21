@@ -23,6 +23,7 @@ I enjoy turning designs into responsive, accessible web experiences, and I'm alw
 **Built With HTML | CSS | JAVASCRIPT**
 
 - [![Static Badge](https://img.shields.io/badge/testimonial-grid)](https://igho-okeoghene.github.io/testimonial-grid/)
+- [![Static Badge](https://img.shields.io/badge/singleprice-component)](https://igho-okeoghene.github.io/Single-Price-Component/)
 - [![Static Badge](https://img.shields.io/badge/previewcard-blog)](https://igho-okeoghene.github.io/blog-preview-card-main/)
 - [![Static Badge](https://img.shields.io/badge/recipe-page)](https://igho-okeoghene.github.io/Recipe-page/)
 - [![Static Badge](https://img.shields.io/badge/article-preview-component)](https://github.com/Igho-Okeoghene/article-preview-component-master/tree/main)
