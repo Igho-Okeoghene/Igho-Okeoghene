@@ -14,7 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend React Developer** with **5+ years of industry experience** in designing, developing, and deploying scalable web applications. I specialize in building responsive, user-centric interfaces using modern React patterns and best practices. My expertise spans from component architecture to state management, with a strong commitment to clean, maintainable code.
+By day, I work in IT Support, helping users resolve technical issues and keeping systems running smoothly. Outside of work, I'm passionate about Frontend Development. After completing my frontend qualifications, I've continued sharpening my skills through hands-on projects.
+
+I enjoy turning designs into responsive, accessible web experiences, and I'm always looking for opportunities to learn something new with every project I build.
 
 ---
 ## 🚀 Projects I Have Worked On
