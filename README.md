@@ -20,7 +20,7 @@ I'm a **Frontend React Developer** with **5+ years of industry experience** in d
 ## 🚀 Projects I Have Worked On
 **HTML**
 - [![Static Badge](https://img.shields.io/badge/article-preview-component)](https://github.com/Igho-Okeoghene/article-preview-component-master/tree/main)
-- ![[Static Badge](https://img.shields.io/badge/four-card-feature)](https://github.com/Igho-Okeoghene/four-card-feature-section-master/tree/main)
+- [![Static Badge](https://img.shields.io/badge/four-card-feature)](https://github.com/Igho-Okeoghene/four-card-feature-section-master/tree/main)
 
 
 
