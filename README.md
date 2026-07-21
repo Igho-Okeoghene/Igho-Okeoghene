@@ -22,6 +22,7 @@ I enjoy turning designs into responsive, accessible web experiences, and I'm alw
 ## 🚀 Projects I Have Worked On
 **Built With HTML | CSS | JAVASCRIPT**
 
+All projects are gotten from FrontendMentors.io
 - [![Static Badge](https://img.shields.io/badge/3column-previewcard)](https://igho-okeoghene.github.io/Preview-card-Frontend-Mentor/)
 - [![Static Badge](https://img.shields.io/badge/testimonial-grid)](https://igho-okeoghene.github.io/testimonial-grid/)
 - [![Static Badge](https://img.shields.io/badge/singleprice-component)](https://igho-okeoghene.github.io/Single-Price-Component/)
