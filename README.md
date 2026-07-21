@@ -21,7 +21,8 @@ I enjoy turning designs into responsive, accessible web experiences, and I'm alw
 ---
 ## 🚀 Projects I Have Worked On
 **Built With HTML | CSS | JAVASCRIPT**
--[![Static Badge](https://img.shields.io/badge/previewcard-blog)](https://igho-okeoghene.github.io/blog-preview-card-main/)
+
+- [![Static Badge](https://img.shields.io/badge/previewcard-blog)](https://igho-okeoghene.github.io/blog-preview-card-main/)
 - [![Static Badge](https://img.shields.io/badge/recipe-page)](https://igho-okeoghene.github.io/Recipe-page/)
 - [![Static Badge](https://img.shields.io/badge/article-preview-component)](https://github.com/Igho-Okeoghene/article-preview-component-master/tree/main)
 - [![Static Badge](https://img.shields.io/badge/four-card-feature)](https://github.com/Igho-Okeoghene/four-card-feature-section-master/tree/main)
